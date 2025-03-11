@@ -1,0 +1,303 @@
+[
+    {
+      "player_id": "P001",
+      "name": "Stephen Curry",
+      "team_id": "T001",
+      "position": "Point Guard"
+    },
+    {
+      "player_id": "P002",
+      "name": "LeBron James",
+      "team_id": "T002",
+      "position": "Forward"
+    },
+    {
+      "player_id": "P003",
+      "name": "Aaron Judge",
+      "team_id": "T003",
+      "position": "Outfielder"
+    },
+    {
+      "player_id": "P004",
+      "name": "Michael Jordan",
+      "team_id": "T004",
+      "position": "Shooting Guard"
+    },
+    {
+      "player_id": "P005",
+      "name": "Cristiano Ronaldo",
+      "team_id": "T005",
+      "position": "Forward"
+    },
+    {
+      "player_id": "P006",
+      "name": "Kevin Durant",
+      "team_id": "T001",
+      "position": "Forward"
+    },
+    {
+      "player_id": "P007",
+      "name": "Kobe Bryant",
+      "team_id": "T002",
+      "position": "Shooting Guard"
+    },
+    {
+      "player_id": "P008",
+      "name": "Mike Trout",
+      "team_id": "T003",
+      "position": "Outfielder"
+    },
+    {
+      "player_id": "P009",
+      "name": "Tom Brady",
+      "team_id": "T004",
+      "position": "Quarterback"
+    },
+    {
+      "player_id": "P010",
+      "name": "Neymar Jr.",
+      "team_id": "T005",
+      "position": "Forward"
+    },
+    {
+      "player_id": "P011",
+      "name": "Giannis Antetokounmpo",
+      "team_id": "T001",
+      "position": "Forward"
+    },
+    {
+      "player_id": "P012",
+      "name": "Dwyane Wade",
+      "team_id": "T002",
+      "position": "Shooting Guard"
+    },
+    {
+      "player_id": "P013",
+      "name": "Bryce Harper",
+      "team_id": "T003",
+      "position": "Outfielder"
+    },
+    {
+      "player_id": "P014",
+      "name": "Larry Bird",
+      "team_id": "T004",
+      "position": "Forward"
+    },
+    {
+      "player_id": "P015",
+      "name": "Zlatan Ibrahimović",
+      "team_id": "T005",
+      "position": "Forward"
+    },
+    {
+      "player_id": "P016",
+      "name": "James Harden",
+      "team_id": "T001",
+      "position": "Shooting Guard"
+    },
+    {
+      "player_id": "P017",
+      "name": "Chris Paul",
+      "team_id": "T002",
+      "position": "Point Guard"
+    },
+    {
+      "player_id": "P018",
+      "name": "Mookie Betts",
+      "team_id": "T003",
+      "position": "Outfielder"
+    },
+    {
+      "player_id": "P019",
+      "name": "Kareem Abdul-Jabbar",
+      "team_id": "T004",
+      "position": "Center"
+    },
+    {
+      "player_id": "P020",
+      "name": "Luis Suárez",
+      "team_id": "T005",
+      "position": "Forward"
+    },
+    {
+      "player_id": "P021",
+      "name": "Joel Embiid",
+      "team_id": "T001",
+      "position": "Center"
+    },
+    {
+      "player_id": "P022",
+      "name": "Jayson Tatum",
+      "team_id": "T002",
+      "position": "Forward"
+    },
+    {
+      "player_id": "P023",
+      "name": "Shohei Ohtani",
+      "team_id": "T003",
+      "position": "Pitcher/Outfielder"
+    },
+    {
+      "player_id": "P024",
+      "name": "Tim Duncan",
+      "team_id": "T004",
+      "position": "Power Forward"
+    },
+    {
+      "player_id": "P025",
+      "name": "Kylian Mbappé",
+      "team_id": "T005",
+      "position": "Forward"
+    },
+    {
+      "player_id": "P026",
+      "name": "Russell Westbrook",
+      "team_id": "T001",
+      "position": "Point Guard"
+    },
+    {
+      "player_id": "P027",
+      "name": "Carmelo Anthony",
+      "team_id": "T002",
+      "position": "Forward"
+    },
+    {
+      "player_id": "P028",
+      "name": "Xander Bogaerts",
+      "team_id": "T003",
+      "position": "Shortstop"
+    },
+    {
+      "player_id": "P029",
+      "name": "Paul George",
+      "team_id": "T004",
+      "position": "Forward"
+    },
+    {
+      "player_id": "P030",
+      "name": "David Beckham",
+      "team_id": "T005",
+      "position": "Midfielder"
+    },
+    {
+      "player_id": "P031",
+      "name": "Jrue Holiday",
+      "team_id": "T001",
+      "position": "Point Guard"
+    },
+    {
+      "player_id": "P032",
+      "name": "Ray Allen",
+      "team_id": "T002",
+      "position": "Shooting Guard"
+    },
+    {
+      "player_id": "P033",
+      "name": "Juan Soto",
+      "team_id": "T003",
+      "position": "Outfielder"
+    },
+    {
+      "player_id": "P034",
+      "name": "Vince Carter",
+      "team_id": "T004",
+      "position": "Shooting Guard"
+    },
+    {
+      "player_id": "P035",
+      "name": "Edinson Cavani",
+      "team_id": "T005",
+      "position": "Forward"
+    },
+    {
+      "player_id": "P036",
+      "name": "Dwight Howard",
+      "team_id": "T001",
+      "position": "Center"
+    },
+    {
+      "player_id": "P037",
+      "name": "Devin Booker",
+      "team_id": "T002",
+      "position": "Shooting Guard"
+    },
+    {
+      "player_id": "P038",
+      "name": "Manny Machado",
+      "team_id": "T003",
+      "position": "Third Baseman"
+    },
+    {
+      "player_id": "P039",
+      "name": "Dennis Rodman",
+      "team_id": "T004",
+      "position": "Power Forward"
+    },
+    {
+      "player_id": "P040",
+      "name": "Antoine Griezmann",
+      "team_id": "T005",
+      "position": "Forward"
+    },
+    {
+      "player_id": "P041",
+      "name": "Zion Williamson",
+      "team_id": "T001",
+      "position": "Forward"
+    },
+    {
+      "player_id": "P042",
+      "name": "Klay Thompson",
+      "team_id": "T002",
+      "position": "Shooting Guard"
+    },
+    {
+      "player_id": "P043",
+      "name": "Albert Pujols",
+      "team_id": "T003",
+      "position": "First Baseman"
+    },
+    {
+      "player_id": "P044",
+      "name": "Patrick Mahomes",
+      "team_id": "T004",
+      "position": "Quarterback"
+    },
+    {
+      "player_id": "P045",
+      "name": "Karim Benzema",
+      "team_id": "T005",
+      "position": "Forward"
+    },
+    {
+      "player_id": "P046",
+      "name": "DeMar DeRozan",
+      "team_id": "T001",
+      "position": "Forward"
+    },
+    {
+      "player_id": "P047",
+      "name": "Paul Pogba",
+      "team_id": "T002",
+      "position": "Midfielder"
+    },
+    {
+      "player_id": "P048",
+      "name": "Chris Sale",
+      "team_id": "T003",
+      "position": "Pitcher"
+    },
+    {
+      "player_id": "P049",
+      "name": "Toni Kroos",
+      "team_id": "T004",
+      "position": "Midfielder"
+    },
+    {
+      "player_id": "P050",
+      "name": "Robert Lewandowski",
+      "team_id": "T005",
+      "position": "Forward"
+    }
+  ]
+  

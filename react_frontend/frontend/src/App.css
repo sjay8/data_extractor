@@ -1,0 +1,285 @@
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  background-color: #f5f5f5;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100%; /* Full width */
+}
+
+.chat-wrapper {
+  flex: 1; /* Occupy the remaining vertical space */
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Header styles */
+.chat-header {
+  background-color: #0078d7;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  border-bottom: 1px solid #005bb5;
+}
+
+/* Chat content styles */
+.chat-content {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  background-color: #f9f9f9;
+}
+
+.chat-content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.chat-content::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 4px;
+}
+
+.message {
+  max-width: 70%;
+  padding: 10px 15px;
+  border-radius: 15px;
+  word-wrap: break-word;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.user-message {
+  align-self: flex-end;
+  background-color: #0078d7;
+  color: white;
+}
+
+.bot-message {
+  align-self: flex-start;
+  background-color: #e1e1e1;
+  color: black;
+}
+
+/* Input area styles */
+.chat-input-area {
+  display: flex;
+  padding: 15px;
+  gap: 10px;
+  background-color: #f4f4f4;
+  border-top: 1px solid #ddd;
+}
+
+.chat-input {
+  flex: 1;
+  height: 50px;
+  resize: none;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1rem;
+  outline: none;
+}
+
+.chat-input:focus {
+  border-color: #0078d7;
+}
+
+.file-upload {
+  display: flex;
+  align-items: center;
+  background-color: #0078d7;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.file-upload input {
+  display: none;
+}
+
+.file-upload:hover {
+  background-color: #005bb5;
+}
+
+.send-button {
+  padding: 10px 20px;
+  background-color: #0078d7;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.send-button:hover {
+  background-color: #005bb5;
+}
+
+/* Make it work nicely on smaller screens */
+@media (max-width: 768px) {
+  .chat-header {
+    font-size: 1.2rem;
+  }
+
+  .chat-input {
+    font-size: 0.9rem;
+  }
+
+  .send-button {
+    font-size: 0.9rem;
+    padding: 8px 15px;
+  }
+
+  .file-upload {
+    font-size: 0.85rem;
+    padding: 8px 12px;
+  }
+}
+
+/* ...之前的样式保持不变... */
+
+/* Modal styles */
+.upload-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  display: none; /* Hidden by default */
+}
+
+.upload-modal.active {
+  display: flex; /* Show modal when active */
+}
+
+.modal-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: 90%;
+  max-width: 400px;
+  text-align: center;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+.modal-content h2 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.modal-buttons {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+  padding: 10px 15px;
+
+}
+
+.modal-button {
+  flex: 1;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.modal-button.mysql {
+  background-color: #0078d7;
+  color: white;
+}
+
+.modal-button.mysql:hover {
+  background-color: #005bb5;
+}
+
+.modal-button.firebase {
+  background-color: #ffc107;
+  color: black;
+}
+
+.modal-button.firebase:hover {
+  background-color: #e0a800;
+}
+
+/* Close button for modal */
+.modal-close {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #aaa;
+}
+
+.modal-close:hover {
+  color: #555;
+}
+
+.data-source-selector {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  background-color: #f9f9f9;
+}
+
+.selector-button {
+  padding: 10px 15px;
+  margin: 0 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+  cursor: pointer;
+}
+
+.selector-button.active {
+  background-color: #007bff;
+  color: white;
+  border-color: #007bff;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 10px 0;
+}
+
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}

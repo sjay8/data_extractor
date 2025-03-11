@@ -1,0 +1,258 @@
+[
+    {
+        "Admission_ID": 1,
+        "patient_id": 10,
+        "admission_date": "2022-05-27",
+        "discharge_date": "2022-05-30",
+        "diagnosis": "Diabetes",
+        "attending_doctor_id": 10
+    },
+    {
+        "Admission_ID": 2,
+        "patient_id": 8,
+        "admission_date": "2024-01-08",
+        "discharge_date": "2024-01-11",
+        "diagnosis": "Diabetes",
+        "attending_doctor_id": 9
+    },
+    {
+        "Admission_ID": 3,
+        "patient_id": 3,
+        "admission_date": "2022-12-01",
+        "discharge_date": "2022-12-06",
+        "diagnosis": "Diabetes",
+        "attending_doctor_id": 7
+    },
+    {
+        "Admission_ID": 4,
+        "patient_id": 18,
+        "admission_date": "2021-08-16",
+        "discharge_date": "2021-08-24",
+        "diagnosis": "Asthma",
+        "attending_doctor_id": 4
+    },
+    {
+        "Admission_ID": 5,
+        "patient_id": 19,
+        "admission_date": "2022-01-27",
+        "discharge_date": "2022-02-06",
+        "diagnosis": "Asthma",
+        "attending_doctor_id": 4
+    },
+    {
+        "Admission_ID": 6,
+        "patient_id": 34,
+        "admission_date": "2020-11-20",
+        "discharge_date": "2020-11-27",
+        "diagnosis": "Diabetes",
+        "attending_doctor_id": 1
+    },
+    {
+        "Admission_ID": 7,
+        "patient_id": 20,
+        "admission_date": "2021-11-20",
+        "discharge_date": "2021-11-22",
+        "diagnosis": "Asthma",
+        "attending_doctor_id": 5
+    },
+    {
+        "Admission_ID": 8,
+        "patient_id": 11,
+        "admission_date": "2024-08-21",
+        "discharge_date": "2024-08-28",
+        "diagnosis": "Diabetes",
+        "attending_doctor_id": 6
+    },
+    {
+        "Admission_ID": 9,
+        "patient_id": 31,
+        "admission_date": "2023-03-19",
+        "discharge_date": "2023-03-27",
+        "diagnosis": "Diabetes",
+        "attending_doctor_id": 10
+    },
+    {
+        "Admission_ID": 10,
+        "patient_id": 32,
+        "admission_date": "2024-02-07",
+        "discharge_date": "2024-02-15",
+        "diagnosis": "Fracture",
+        "attending_doctor_id": 6
+    },
+    {
+        "Admission_ID": 11,
+        "patient_id": 36,
+        "admission_date": "2022-01-16",
+        "discharge_date": "2022-01-21",
+        "diagnosis": "Asthma",
+        "attending_doctor_id": 8
+    },
+    {
+        "Admission_ID": 12,
+        "patient_id": 6,
+        "admission_date": "2024-03-06",
+        "discharge_date": "2024-03-11",
+        "diagnosis": "Asthma",
+        "attending_doctor_id": 1
+    },
+    {
+        "Admission_ID": 13,
+        "patient_id": 40,
+        "admission_date": "2022-12-04",
+        "discharge_date": "2022-12-13",
+        "diagnosis": "Asthma",
+        "attending_doctor_id": 4
+    },
+    {
+        "Admission_ID": 14,
+        "patient_id": 47,
+        "admission_date": "2023-05-22",
+        "discharge_date": "2023-05-26",
+        "diagnosis": "Diabetes",
+        "attending_doctor_id": 8
+    },
+    {
+        "Admission_ID": 15,
+        "patient_id": 14,
+        "admission_date": "2020-04-27",
+        "discharge_date": "2020-05-07",
+        "diagnosis": "Fracture",
+        "attending_doctor_id": 1
+    },
+    {
+        "Admission_ID": 16,
+        "patient_id": 11,
+        "admission_date": "2022-08-18",
+        "discharge_date": "2022-08-19",
+        "diagnosis": "Fracture",
+        "attending_doctor_id": 5
+    },
+    {
+        "Admission_ID": 17,
+        "patient_id": 40,
+        "admission_date": "2023-11-18",
+        "discharge_date": "2023-11-19",
+        "diagnosis": "Fracture",
+        "attending_doctor_id": 6
+    },
+    {
+        "Admission_ID": 18,
+        "patient_id": 10,
+        "admission_date": "2021-09-29",
+        "discharge_date": "2021-10-03",
+        "diagnosis": "Fracture",
+        "attending_doctor_id": 2
+    },
+    {
+        "Admission_ID": 19,
+        "patient_id": 7,
+        "admission_date": "2024-05-03",
+        "discharge_date": "2024-05-08",
+        "diagnosis": "Flu",
+        "attending_doctor_id": 3
+    },
+    {
+        "Admission_ID": 20,
+        "patient_id": 20,
+        "admission_date": "2024-10-05",
+        "discharge_date": "2024-10-14",
+        "diagnosis": "Diabetes",
+        "attending_doctor_id": 6
+    },
+    {
+        "Admission_ID": 21,
+        "patient_id": 10,
+        "admission_date": "2022-04-01",
+        "discharge_date": "2022-04-10",
+        "diagnosis": "Flu",
+        "attending_doctor_id": 2
+    },
+    {
+        "Admission_ID": 22,
+        "patient_id": 5,
+        "admission_date": "2022-01-07",
+        "discharge_date": "2022-01-11",
+        "diagnosis": "Asthma",
+        "attending_doctor_id": 1
+    },
+    {
+        "Admission_ID": 23,
+        "patient_id": 40,
+        "admission_date": "2024-01-18",
+        "discharge_date": "2024-01-27",
+        "diagnosis": "Flu",
+        "attending_doctor_id": 5
+    },
+    {
+        "Admission_ID": 24,
+        "patient_id": 40,
+        "admission_date": "2022-05-27",
+        "discharge_date": "2022-05-31",
+        "diagnosis": "Asthma",
+        "attending_doctor_id": 6
+    },
+    {
+        "Admission_ID": 25,
+        "patient_id": 48,
+        "admission_date": "2020-05-23",
+        "discharge_date": "2020-05-24",
+        "diagnosis": "Flu",
+        "attending_doctor_id": 8
+    },
+    {
+        "Admission_ID": 26,
+        "patient_id": 21,
+        "admission_date": "2022-02-12",
+        "discharge_date": "2022-02-21",
+        "diagnosis": "Fracture",
+        "attending_doctor_id": 6
+    },
+    {
+        "Admission_ID": 27,
+        "patient_id": 38,
+        "admission_date": "2023-03-31",
+        "discharge_date": "2023-04-05",
+        "diagnosis": "Flu",
+        "attending_doctor_id": 4
+    },
+    {
+        "Admission_ID": 28,
+        "patient_id": 37,
+        "admission_date": "2021-11-12",
+        "discharge_date": "2021-11-20",
+        "diagnosis": "Asthma",
+        "attending_doctor_id": 7
+    },
+    {
+        "Admission_ID": 29,
+        "patient_id": 49,
+        "admission_date": "2020-05-08",
+        "discharge_date": "2020-05-13",
+        "diagnosis": "Fracture",
+        "attending_doctor_id": 5
+    },
+
+
+    {"ID": 30, "Age": 8, "StartDate": "2023-03-19", "EndDate": "2023-03-29", "Condition": "Fracture", "Severity": 4},
+    {"ID": 31, "Age": 29, "StartDate": "2020-03-19", "EndDate": "2020-03-22", "Condition": "Flu", "Severity": 5},
+    {"ID": 32, "Age": 38, "StartDate": "2023-04-19", "EndDate": "2023-04-22", "Condition": "Diabetes", "Severity": 1},
+    {"ID": 33, "Age": 25, "StartDate": "2023-05-27", "EndDate": "2023-05-28", "Condition": "Diabetes", "Severity": 6},
+    {"ID": 34, "Age": 23, "StartDate": "2022-07-04", "EndDate": "2022-07-08", "Condition": "Flu", "Severity": 10},
+    {"ID": 35, "Age": 37, "StartDate": "2022-08-08", "EndDate": "2022-08-14", "Condition": "Fracture", "Severity": 6},
+    {"ID": 36, "Age": 10, "StartDate": "2020-06-12", "EndDate": "2020-06-15", "Condition": "Asthma", "Severity": 1},
+    {"ID": 37, "Age": 20, "StartDate": "2022-10-11", "EndDate": "2022-10-20", "Condition": "Diabetes", "Severity": 8},
+    {"ID": 38, "Age": 31, "StartDate": "2020-05-08", "EndDate": "2020-05-13", "Condition": "Asthma", "Severity": 7},
+    {"ID": 39, "Age": 20, "StartDate": "2023-02-15", "EndDate": "2023-02-21", "Condition": "Flu", "Severity": 6},
+    {"ID": 40, "Age": 50, "StartDate": "2024-10-04", "EndDate": "2024-10-14", "Condition": "Fracture", "Severity": 5},
+    {"ID": 41, "Age": 49, "StartDate": "2021-03-19", "EndDate": "2021-03-27", "Condition": "Asthma", "Severity": 3},
+    {"ID": 42, "Age": 27, "StartDate": "2024-06-09", "EndDate": "2024-06-13", "Condition": "Fracture", "Severity": 5},
+    {"ID": 43, "Age": 47, "StartDate": "2021-08-09", "EndDate": "2021-08-19", "Condition": "Asthma", "Severity": 9},
+    {"ID": 44, "Age": 28, "StartDate": "2023-06-12", "EndDate": "2023-06-17", "Condition": "Fracture", "Severity": 9},
+    {"ID": 45, "Age": 42, "StartDate": "2020-07-31", "EndDate": "2020-08-07", "Condition": "Asthma", "Severity": 7},
+    {"ID": 46, "Age": 18, "StartDate": "2021-05-22", "EndDate": "2021-05-29", "Condition": "Fracture", "Severity": 8},
+    {"ID": 47, "Age": 42, "StartDate": "2022-11-28", "EndDate": "2022-12-03", "Condition": "Diabetes", "Severity": 4},
+    {"ID": 48, "Age": 14, "StartDate": "2024-07-19", "EndDate": "2024-07-29", "Condition": "Diabetes", "Severity": 8},
+    {"ID": 49, "Age": 38, "StartDate": "2023-03-14", "EndDate": "2023-03-15", "Condition": "Fracture", "Severity": 4},
+    {"ID": 50, "Age": 3, "StartDate": "2022-12-29", "EndDate": "2023-01-08", "Condition": "Fracture", "Severity": 10}
+    ]
+    

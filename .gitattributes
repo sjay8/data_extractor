@@ -1,0 +1,13 @@
+# Ignore compiled Python files
+*.pyc linguist-vendored
+*.pyd linguist-vendored
+*.so linguist-vendored
+
+# Ignore virtual environment
+venv/* linguist-vendored
+
+# Ignore static assets
+frontend/public/* linguist-vendored
+frontend/src/**/*.css linguist-vendored
+frontend/src/**/*.svg linguist-vendored
+

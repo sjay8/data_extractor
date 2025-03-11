@@ -1,0 +1,52 @@
+"doctors": {
+    "0001": {
+        "first_name": "Stacey",
+        "last_name": "Mcintosh",
+        "specialty": "Cardiology"
+    },
+    "0002": {
+        "first_name": "Carol",
+        "last_name": "Wood",
+        "specialty": "Neurology"
+    },
+    "0003": {
+        "first_name": "Anthony",
+        "last_name": "Hansen",
+        "specialty": "Orthopedics"
+    },
+    "0004": {
+        "first_name": "David",
+        "last_name": "Collins",
+        "specialty": "Pediatrics"
+    },
+    "0005": {
+        "first_name": "Alexis",
+        "last_name": "Henry",
+        "specialty": "Dermatology"
+    },
+    "0006": {
+        "first_name": "Gabriel",
+        "last_name": "Davis",
+        "specialty": "Psychiatry"
+    },
+    "0007": {
+        "first_name": "Sandra",
+        "last_name": "Bowman",
+        "specialty": "Oncology"
+    },
+    "0008": {
+        "first_name": "Courtney",
+        "last_name": "Higgins",
+        "specialty": "Radiology"
+    },
+    "0009": {
+        "first_name": "Jason",
+        "last_name": "Gray",
+        "specialty": "Endocrinology"
+    },
+    "0010": {
+        "first_name": "Rebecca",
+        "last_name": "Walters",
+        "specialty": "Gastroenterology"
+    }
+}
